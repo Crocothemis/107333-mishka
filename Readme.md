@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Татьяна Лебедева](https://up.htmlacademy.ru/adaptive/12/user/107333).
-* Наставник: `Неизвестно`.
+* Наставник: [Keks].
 
 ---
 
